@@ -1,0 +1,4 @@
+﻿  queues.cpp
+C:\Users\hoyka\source\repos\queue\queues.cpp(58,1): warning C4715: 'queue::getTailValue': tüm denetim yolları değer döndürmez
+C:\Users\hoyka\source\repos\queue\queues.cpp(48,1): warning C4715: 'queue::getHeadValue': tüm denetim yolları değer döndürmez
+  queue.vcxproj -> C:\Users\hoyka\source\repos\queue\x64\Debug\queue.exe
